@@ -41,7 +41,8 @@ def initialize(school_name)
 end
 
   def grade(grade)
-    @roster
+    @roster[grade]
+  end
 
 
 end
