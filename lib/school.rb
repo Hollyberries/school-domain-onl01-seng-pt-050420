@@ -40,4 +40,8 @@ def initialize(school_name)
   @roster[grade].push(name)
 end
 
+  def grade(grade)
+    @roster
+
+
 end
