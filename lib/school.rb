@@ -37,5 +37,6 @@ class School
      @roster[grade] = [] if @roster(grade).nil?
        @roster[grade].push(name)
   end
+  end
   
 end
