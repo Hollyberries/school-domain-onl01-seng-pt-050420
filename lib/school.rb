@@ -48,5 +48,5 @@ end
     @roster.each do |grade, students|
       students.sort!
   end
-  
+  @roster 
 end
