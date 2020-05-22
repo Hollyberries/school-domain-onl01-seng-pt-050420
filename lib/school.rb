@@ -44,6 +44,7 @@ end
     @roster[grade]
   end
 
-  def
+  def sort
+    @roster.each do |grade, students|
   
 end
