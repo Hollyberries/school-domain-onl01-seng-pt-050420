@@ -33,4 +33,5 @@ class School
    roster = {}
   end
   
-  def add_student(name, roster)
+  def add_student(name, grade)
+    
