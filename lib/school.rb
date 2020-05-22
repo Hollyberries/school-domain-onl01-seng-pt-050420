@@ -39,3 +39,5 @@ def initialize(school_name)
   @roster[grade] = [] if  @roster[grade].nil?
   @roster[grade].push(name)
 end
+
+end
